@@ -1,18 +1,4 @@
-.welcome {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-top: 10px;
-}
-
-.apresentacao{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-top: 10px;
-}
-
-.container{
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,13 +6,21 @@
   color: whitesmoke;
 }
 
-.card{
+.card {
   align-items: center;
   width: 100vh;
   margin: 0 10px 0 10px;
   background-color: #000000;
 }
 
-.texto{
+.welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.texto {
+  margin: 0 20px;
   font-size: 16px;
 }
