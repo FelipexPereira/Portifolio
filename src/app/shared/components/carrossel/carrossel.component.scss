@@ -4,16 +4,23 @@
   align-items: center;
   margin-top: 20px;
   margin-bottom: 20px;
+  color: whitesmoke;
 }
 
 .card{
   align-items: center;
-  text-align: center;
   width: 100vh;
+  margin: 0 10px 0 10px;
+  background-color: #000000;
+}
+
+.subTitulo {
+  color: whitesmoke;
 }
 
 .texto{
 margin: 20px;
+font-size: 16px;
 }
 
 .img {

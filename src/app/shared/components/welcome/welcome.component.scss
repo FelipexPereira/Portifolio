@@ -1,0 +1,32 @@
+.welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.apresentacao{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  color: whitesmoke;
+}
+
+.card{
+  align-items: center;
+  width: 100vh;
+  margin: 0 10px 0 10px;
+  background-color: #000000;
+}
+
+.texto{
+  font-size: 16px;
+}

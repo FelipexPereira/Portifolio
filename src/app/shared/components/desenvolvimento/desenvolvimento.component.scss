@@ -8,16 +8,23 @@
   align-items: center;
   margin-top: 20px;
   margin-bottom: 20px;
+  color: whitesmoke;
 }
 
 .card{
   align-items: center;
   text-align: center;
   width: 100vh;
+  background-color: black;
 }
 
 .texto{
 margin: 20px;
+font-size: 16px;
+}
+
+.subTitulo {
+  color: whitesmoke;
 }
 
 .img {
