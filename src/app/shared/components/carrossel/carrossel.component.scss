@@ -11,15 +11,20 @@
   align-items: center;
   text-align: center;
   width: 100vh;
-  margin: 0 10px 0 10px;
-  background-color: black;
+  margin: 0 10px;
 }
 
-.welcome {
+.m{
+  background-color: #280c21;
+}
+
+.titulo {
   display: flex;
   justify-content: center;
   align-items: center;
   padding-top: 10px;
+  color: #673ab7;
+  font-size: 30px;
 }
 
 
