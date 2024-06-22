@@ -4,6 +4,7 @@ import { CarrosselComponent } from '../../shared/components/carrossel/carrossel.
 import { DesenvolvimentoComponent } from '../../shared/components/desenvolvimento/desenvolvimento.component';
 import { MatCardModule } from '@angular/material/card';
 import { WelcomeComponent } from '../../shared/components/welcome/welcome.component';
+import { TesteComponent } from '../../shared/components/teste/teste/teste.component';
 
 @Component({
   selector: 'app-home',
@@ -13,6 +14,7 @@ import { WelcomeComponent } from '../../shared/components/welcome/welcome.compon
     CarrosselComponent,
     DesenvolvimentoComponent,
     WelcomeComponent,
+    TesteComponent,
     MatCardModule,
   ],
   templateUrl: './home.component.html',
